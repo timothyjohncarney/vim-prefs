@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/tim/svn/dev_linux/wb/trunk/images'
-let g:netrw_dirhist_2='/home/tim/svn/dev_linux/wb/trunk'
-let g:netrw_dirhist_3='/home/tim/svn/dev_linux/wb'
-let g:netrw_dirhist_4='/home/tim/scratch/linux-kernel/linux-3.8/drivers/iio/adc'
-let g:netrw_dirhist_5='/home/tim/scratch/linux-kernel/linux-3.8/drivers/iio'
-let g:netrw_dirhist_6='/home/tim/git/wb_dev/wb/buildroot/output/wb45n/build/linux-3.8/include/config/defconfig'

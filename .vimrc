@@ -65,4 +65,4 @@ set laststatus=2
 "      " toggle paste mode
 "      nmap <LocalLeader>pp :set paste!<cr>
 map <F5> :!cscope -b<CR>:cs reset<CR><CR>                                      
-
+colorscheme darkblue
